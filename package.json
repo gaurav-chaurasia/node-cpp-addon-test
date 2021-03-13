@@ -1,0 +1,11 @@
+{
+  "name": "node-cpp",
+  "version": "1.0.0",
+  "description": "this is to test to run cpp program in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurav Chaurasia",
+  "license": "MIT"
+}
