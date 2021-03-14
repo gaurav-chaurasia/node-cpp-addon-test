@@ -10,15 +10,6 @@
     <Filter Include="..\core\cpp">
       <UniqueIdentifier>{9938E6E5-8F6B-7587-726E-6CE774E44BEE}</UniqueIdentifier>
     </Filter>
-    <Filter Include="..">
-      <UniqueIdentifier>{739DB09A-CC57-A953-A6CF-F64FA08E4FA7}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="..\core">
-      <UniqueIdentifier>{16178836-FF57-2363-AA2B-8BAC1DC00026}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="..\core\cpp">
-      <UniqueIdentifier>{9938E6E5-8F6B-7587-726E-6CE774E44BEE}</UniqueIdentifier>
-    </Filter>
     <Filter Include="C:">
       <UniqueIdentifier>{7B735499-E5DD-1C2B-6C26-70023832A1CF}</UniqueIdentifier>
     </Filter>
@@ -52,9 +43,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\core\cpp\sum.cpp">
-      <Filter>..\core\cpp</Filter>
-    </ClCompile>
-    <ClCompile Include="..\core\cpp\index.cpp">
       <Filter>..\core\cpp</Filter>
     </ClCompile>
     <ClCompile Include="C:\Users\USER\AppData\Roaming\npm\node_modules\node-gyp\src\win_delay_load_hook.cc">

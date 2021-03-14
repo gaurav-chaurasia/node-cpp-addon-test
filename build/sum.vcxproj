@@ -138,9 +138,6 @@
     <ClCompile Include="..\core\cpp\sum.cpp">
       <ObjectFileName>$(IntDir)\core\cpp\sum.obj</ObjectFileName>
     </ClCompile>
-    <ClCompile Include="..\core\cpp\index.cpp">
-      <ObjectFileName>$(IntDir)\core\cpp\index.obj</ObjectFileName>
-    </ClCompile>
     <ClCompile Include="C:\Users\USER\AppData\Roaming\npm\node_modules\node-gyp\src\win_delay_load_hook.cc"/>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets"/>
